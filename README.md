@@ -11,6 +11,8 @@ Supported are all base datatypes and also arrays or structs can be directly comm
 ## Requirements
 - PVI Runtime [Download](https://www.br-automation.com/de/downloads/software/automation-netpvi/pvi-development-setup/)
 
+The application was developed and tested with PVI 4.10!
+
 ## How to use
 - Just download, execute and have a look at the startup guide :-)
 
