@@ -5,9 +5,15 @@ With this software you can exchange variables between two [B&amp;R](https://www.
 
 Supported are all base datatypes and also arrays or structs can be directly communicated.
 
-Use case:   
+##Use case
 - Transfer physical handwheel data to an ARSim instance
 
-**Information**     
+##Requirements
+- PVI Runtime [Download](https://www.br-automation.com/de/downloads/software/automation-netpvi/pvi-development-setup/)
+
+##How to use
+- Just download, execute and have a look at the startup guide :-)
+
+## Additional Information
 This application is not an official B&amp;R product! For this reason the use is at your own risk and there is NO claim on support or maintenance.
 
