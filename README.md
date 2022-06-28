@@ -7,6 +7,7 @@ Supported are all base datatypes and also arrays or structs can be directly comm
 
 ## Download
 Can be found under [Releases](https://github.com/bee-eater/akpu/releases/latest)
+- v0.9.4.0-beta [[Download](https://github.com/bee-eater/akpu/releases/download/v0.9.4.0-beta/akpu_v0.9.4.0_beta.zip)]
 
 ## Use case
 - Transfer physical handwheel data to an ARSim instance
