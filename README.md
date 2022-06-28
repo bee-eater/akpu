@@ -5,6 +5,9 @@ With this software you can exchange variables between two [B&amp;R](https://www.
 
 Supported are all base datatypes and also arrays or structs can be directly communicated.
 
+## Download
+Can be found under [Releases](https://github.com/bee-eater/akpu/releases/latest)
+
 ## Use case
 - Transfer physical handwheel data to an ARSim instance
 
