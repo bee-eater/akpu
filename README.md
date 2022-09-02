@@ -8,7 +8,7 @@ Supported are all base datatypes and also arrays or structs can be directly comm
 
 ## Download
 Can be found under [Releases](https://github.com/bee-eater/akpu/releases/latest)
-- v1.0.1.0 [[Installer](https://github.com/bee-eater/akpu/releases/download/v1.0.1.0/akpu-1.0.1.0-Release-x86.msi)]|[[Portable](https://github.com/bee-eater/akpu/releases/download/v1.0.1.0/akpu-1.0.1.0-Release-x86.zip)]
+- v1.0.1.0 [[Installer](https://github.com/bee-eater/akpu/releases/download/v1.0.2.0/akpu-1.0.2.0-Release-x86.msi)]|[[Portable](https://github.com/bee-eater/akpu/releases/download/v1.0.2.0/akpu-1.0.2.0-Release-x86.zip)]
 
 ## Use case
 - Transfer physical handwheel data to an ARSim instance
